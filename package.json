@@ -18,6 +18,9 @@
   "homepage": "https://github.com/microsoft/Team-Lunch-with-Office-Graph#readme",
   "dependencies": {
     "@microsoft/microsoft-graph-client": "1.7.0",
-    "msal": "1.0.1"
+    "ejs": "2.6.1",
+    "express": "4.17.1",
+    "msal": "1.0.1",
+    "node-fetch": "2.6.0"
   }
 }
